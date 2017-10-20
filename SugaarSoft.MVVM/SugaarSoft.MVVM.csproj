@@ -43,6 +43,7 @@
     <Compile Include="Base\NotificationObject.cs" />
     <Compile Include="Helpers\PropertyNameHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\IoC.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
